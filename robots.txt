@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://asidenta.github.io/sitemap.html.gz
+Sitemap: https://asidenta.github.io/app/sitemap.html.gz
+Sitemap: https://asidenta.github.io/assets/sitemap.html.gz
+Sitemap: https://asidenta.github.io/css/sitemap.html.gz
+Sitemap: https://asidenta.github.io/data/sitemap.html.gz
+Sitemap: https://asidenta.github.io/includes/sitemap.html.gz
+Sitemap: https://asidenta.github.io/item/sitemap.html.gz
+Sitemap: https://asidenta.github.io/src/sitemap.html.gz
